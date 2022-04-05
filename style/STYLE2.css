@@ -1,0 +1,209 @@
+*{box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    margin-bottom: 50px;
+    font-size: 2em;
+}
+.logo ul li{
+    display: flex;
+    float: left;
+}
+.log{margin-top: 22px;
+
+}
+.date{color:#28c9f5;
+    font-size: 1em;
+}
+
+.border{
+    border:solid 1px;
+    margin-bottom: 1px;
+    width: 100%;
+    height: 1px;
+    color: black;
+}
+.etude{
+    color:#28c9f5;
+    font-size: 2em;
+    justify-content: center;
+    text-align: center;
+}
+.contact{
+    color:#28c9f5;
+    font-size: 2em;
+    text-align: center;
+    justify-content: center;
+}
+.navbar-text{
+font-size: 2em;
+margin-bottom: 50px;
+margin-right: 70px;
+color:#28c9f5!important;
+}
+.expert{
+    color:#28c9f5;
+    font-size: 3em;
+      
+}
+.facebook{
+    margin-bottom: 70px;
+}
+ .lindekin{
+     margin-top: 25px;
+     margin-left: 20px;
+ }
+ .calendar{
+     margin-right: 60px;
+     margin-bottom: 55px;
+     width: 50px;
+     height: 60px;
+     color:#28c9f5;
+     
+ }
+ .premier{
+    border-radius:solid 1px black;
+    height: 90px;
+    color:white;
+    background-color: #28c9f5;
+    text-align: center;
+    justify-content: center;
+    padding: 30px;
+    font-size: 2em;
+ }
+ .images img{
+    align-items:right 10px; 
+    justify-content: right 10px;
+      
+ }
+ .images2 img{
+ margin-left: 400px;
+    
+ }
+ .mot1{
+   
+     font-size: 3em;
+     color:#28c9f5;
+ }
+ .mot2{
+     font-size: 2em;
+     color: rgb(131, 131, 125);
+     margin-right: 40px;
+ }
+ .mot3{
+    font-size: 3em;
+    color: rgb(153, 153, 142);
+ }
+ .mot4{
+    font-size: 2em;
+    color: rgb(131, 131, 125);
+    margin-right: 40px;
+ }
+    
+ .consultant{
+     width: 100%;
+     border-radius:solid 3px 3px 3px 3px black;
+     background-color:#28c9f5;
+     height: 100px;
+     margin-top: 100px;
+     padding: 3%;
+ }
+ .photo3 ul li{
+     display: flex;
+     float: left;
+     width: 200px;
+     height: 100px;
+ }
+ #foot{
+    width: 100%;
+    height:auto;
+    background-color:#28c9f5;
+    border-radius: solid;
+    color:white;
+    justify-content: center;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    text-align: center;
+}
+.avant{
+    color:#28c9f5;
+    text-align: center;
+    justify-content: center;
+    margin: 0 !important;
+}
+.num{
+margin-right: 15%;
+}
+.terme{
+margin-right: 15%;
+}
+.joindre{
+margin-right: 15%;
+}
+a{
+    text-decoration: none;
+color: #fff;
+}
+a:link{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    text-decoration: none;
+   
+}
+a:active{
+    text-decoration: none;
+
+}
+strong{
+    font-size: 2em;
+}
+
+
+.pied ul li{
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    float:left;
+    margin:10px
+    
+}
+.reseau{
+    margin-top: 80px;
+}
+.reseau1{
+    margin-right: 100px;
+}
+.fin{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+}
+.photo3{
+    display: flex;
+    float: left;
+    margin-top: 200px;
+}
+.team{
+    font-size: 2em;
+}
+.master{
+font-size: 2em;
+}
+.owner{
+font-size: 2em;
+}
+.ORDINATEUR{
+display: flex;
+float: left;
+}
+
+.solution img{
+   
+    margin-left: 45%;
+    justify-content: center;
+
+
+}
